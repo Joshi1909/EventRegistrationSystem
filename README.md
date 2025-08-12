@@ -16,19 +16,7 @@ The system uses a database connection to store and retrieve event details.
 
 ---
 
-## 📂 Project Structure
 
-EventRegistrationSystem/
-│
-├── src/
-│ ├── Main.java # Application entry point
-│ ├── db/
-│ │ └── DBConnection.java # Handles database initialization and connection
-│ ├── service/
-│ │ └── EventService.java # Business logic for events and attendees
-│ └── model/ # (Optional) Model classes for Event and Attendee
-│
-├── README.md # Project documentation
 
 **Usage Example**
 === Event Registration System ===
