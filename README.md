@@ -16,6 +16,11 @@ The system uses a database connection to store and retrieve event details.
 
 ---
 
+## ⚙️ Requirements
+
+- **Java 8+**
+- JDBC Driver for your database
+- IDE: Eclipse
 
 
 **Usage Example**
@@ -26,6 +31,8 @@ The system uses a database connection to store and retrieve event details.
 4. Cancel Event
 5. View Event Stats
 0. Exit
+
+
 Enter choice: 1
 Event Name: Tech Conference
 Date (YYYY-MM-DD): 2025-09-13
